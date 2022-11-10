@@ -24,7 +24,7 @@ const App = () => {
             <Button count={count} onClick={buttonClickhandler} />
           </p>
           <p>
-            Edit <code>App.jsx</code> and save to test HMR updates and GitHub Actions.
+            Edit <code>App.jsx</code> and save to test GitHub Actions.
           </p>
           <p>
             <Link 
