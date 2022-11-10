@@ -1,6 +1,7 @@
 {
   "name": "vite-react-tailwind-starter",
   "version": "0.0.0",
+  "homepage": "https://hendrikmitk.github.io/github-actions-test/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
